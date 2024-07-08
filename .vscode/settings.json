@@ -1,0 +1,10 @@
+{
+  "editor.semanticTokenColorCustomizations": {},
+  "workbench.colorCustomizations": {
+    "editorBracketHighlight.foreground1": "#1d40ed",
+    "editorBracketHighlight.foreground2": "#ece509",
+    "editorBracketHighlight.foreground3": "#930693"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "cSpell.words": ["fullname", "Signup"]
+}

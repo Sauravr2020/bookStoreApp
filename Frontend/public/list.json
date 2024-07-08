@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Story Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1716702648~exp=1716706248~hmac=7eb6db52aac31d3c2f6025b8b9e5c4e5de37682316e8563c217fe6b93a343017&w=826"
+  },
+  {
+    "id": 2,
+    "name": "Comedy Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Entertainment",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1716702648~exp=1716706248~hmac=7eb6db52aac31d3c2f6025b8b9e5c4e5de37682316e8563c217fe6b93a343017&w=826"
+  },
+  {
+    "id": 3,
+    "name": "Food Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 100,
+    "category": "Food",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1716702648~exp=1716706248~hmac=7eb6db52aac31d3c2f6025b8b9e5c4e5de37682316e8563c217fe6b93a343017&w=826"
+  },
+  {
+    "id": 4,
+    "name": "Song Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 200,
+    "category": "song",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1716702648~exp=1716706248~hmac=7eb6db52aac31d3c2f6025b8b9e5c4e5de37682316e8563c217fe6b93a343017&w=826"
+  },
+  {
+    "id": 5,
+    "name": "Medicine Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 200,
+    "category": "Medicine",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1716702648~exp=1716706248~hmac=7eb6db52aac31d3c2f6025b8b9e5c4e5de37682316e8563c217fe6b93a343017&w=826"
+  },
+  {
+    "id": 6,
+    "name": "Poem Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1716702648~exp=1716706248~hmac=7eb6db52aac31d3c2f6025b8b9e5c4e5de37682316e8563c217fe6b93a343017&w=826"
+  },
+  {
+    "id": 7,
+    "name": "Mathematics Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1716702648~exp=1716706248~hmac=7eb6db52aac31d3c2f6025b8b9e5c4e5de37682316e8563c217fe6b93a343017&w=826"
+  },
+  {
+    "id": 8,
+    "name": "Physics Book",
+    "title": "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-photo/front-view-stacked-books-ladders-education-day_23-2149241046.jpg?t=st=1716702648~exp=1716706248~hmac=7eb6db52aac31d3c2f6025b8b9e5c4e5de37682316e8563c217fe6b93a343017&w=826"
+  }
+]
